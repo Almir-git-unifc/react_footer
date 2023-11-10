@@ -17,7 +17,7 @@ Footer gray, clean and simple and beautifull, made in React Vite with html and c
 --------------------------------------------------------------------------------------
 
 
-![Progress Bar](https://github.com/Almir-git-unifc/react_footer/blob/main/zcreen.png)
+![footer screen](https://github.com/Almir-git-unifc/react_footer/blob/main/zcreen.png)
 
 
 --------------------------------------------------------------------------------------
