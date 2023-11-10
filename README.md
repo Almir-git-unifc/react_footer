@@ -5,7 +5,6 @@ Progress bar, horizontal, made in React Vite, for loading progress status of ima
 
 ---------------------------------------------------------------------------------------------------------
 
-<h2>ANDAMENTO</H2>
  
 <h3 align="center"> 
 	 STATUS: 🔔  React VITE 🚀  App:   Finished ...  🎯  
