@@ -1,7 +1,7 @@
 <h1>footer-react</h1>
 
 
-Progress bar, horizontal, made in React Vite, for loading progress status of images, quizz, and others
+Footer gray, clean and simple and beautifull, made in React Vite with html and css
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Progress bar, horizontal, made in React Vite, for loading progress status of ima
 --------------------------------------------------------------------------------------
 
 
-![Progress Bar](https://github.com/Almir-git-unifc/react-progress_bar/blob/main/screenprogbar.png)
+![Progress Bar](https://github.com/Almir-git-unifc/react_footer/blob/main/zcreen.png)
 
 
 --------------------------------------------------------------------------------------
@@ -39,7 +39,7 @@ Progress bar, horizontal, made in React Vite, for loading progress status of ima
 
 This project was previously developed for 'CodeInn', found on YouTube with the title """ Responsive Footer Tutorial With React JS | 2023 """.
 
-However, during my development the main change I made was to use react icons; and change font-size.
+However, during my development the main change I made was to use React Icons; and change font-size.
 
 <!-- 
 Layout de site responsivo, simples, criado com código html, css e javascript; usando regra de mídia, barra de rolagem, ícone de sanduíche e menu deslizante 
@@ -57,7 +57,7 @@ Layout de site responsivo, simples, criado com código html, css e javascript; u
 
 In youtube's video this project was developed with Html, CSS in React.js.
 
-However, during my development the main change is that I used React VITE.
+However, during my development the main change is that I used React VITE and React Icons.
 
 # Built With 
 ![React](https://img.shields.io/badge/react-%23FA7343.svg?style=for-the-badge&logo=react&logoColor=%23000080)
